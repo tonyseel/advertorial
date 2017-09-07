@@ -60,7 +60,9 @@ a:hover, a:focus {
 
 
 /*FONTS*/
-
+.menu{width:100%;display:inline-block;}
+.menu ul li{float:left; padding:10px}
+.menu ul li a{color:#767777;font-size:17px}
 .custom{background:#f6f6f4 url(../image/creampaper.png)}
 .mm-home{width: 100%px;
     background-color: #fff;
@@ -99,3 +101,5 @@ a:hover, a:focus {
 .latest h4{font-size:19px;color:#d80000;font-weight:700}
 .latest ul li a{font-size:16px;color:#848484}
 .latest ul li{width:25%;float:left}
+.mm-home h2{color:#d80000;font-size:20px;font-weight:800
+}
