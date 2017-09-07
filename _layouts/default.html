@@ -18,7 +18,19 @@
   <div class="container">
   		<div class="mm-home">
   		 <h1>{{site.header}}</h1>
-  		<div class="menu">
+  	
+			<h1>{{site.headertext}}</h1>
+ {{content}}
+ 	<div class="form-section">
+			<form method="post" action="" id="frmSS31" onsubmit="return CheckForm31(this); " style="width:100%;display:inline-block">
+				<input type="text" id="" name="" value="" placeholder="Enter your name">
+				   <input type="text" name="email" value="" placeholder="Enter your Email"/> 
+				   <input type="submit" value="Learn more about MCMaster here" class="button" />
+					   </form>
+			</div>
+			
+       {% include form.html %}
+       	<div class="menu">
     		<ul>
 				<li><a href="#">Home</a></li>
 				<li><a href="{{site.baseurl}}/about.html">About</a></li>
@@ -26,9 +38,6 @@
 				<li><a href="{{site.baseurl}}/privacy.html">Privacy</a></li>
 			</ul>
 		</div>
-			<h1>{{site.headertext}}</h1>
- {{content}}
-       {% include form.html %}
 	  </div>
 	</div>
 </body>
