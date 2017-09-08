@@ -21,4 +21,4 @@ gems:
   - jekyll-seo-tag
   - jekyll-sitemap
 
-#include: ['_pages']
+include: ['_pages']
