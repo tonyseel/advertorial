@@ -2,6 +2,7 @@
 layout: post
 date: 2016-08-20
 title: Credit for Good
+type: front
 ---
 
 Bad credit can be very stressful. It often throws people into a tailspin, but there is hope. It is hard to pay old debt when new debt is steadily accumulating. So what do you do?
