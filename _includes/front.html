@@ -1,13 +1,12 @@
  {% for post in site.posts %}
-  {% if post.type == 'front' %} 
+	  {% if post.type == 'front' %}
+		   <h1>{{post.title}}</h1>	
+		    <div class="content-section">
+			    	
+		       <p><img src="{{site.baseurl}}/image/author3.png" style="float:right"></p>
 
-   <h1>{{post.title}}</h1>	
-    <div class="content-section">
-	    	
-       <p><img src="{{site.baseurl}}/image/author3.png" style="float:right"></p>
-				
-       {{content}}
-			
-    </div>
-  {% endif %}
+		       {{content}}
+					
+		    </div>
+	  {% endif %}       
 {% endfor %}
