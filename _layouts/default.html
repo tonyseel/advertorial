@@ -18,10 +18,7 @@
   <div class="container">
   		<div class="mm-home">
         
-    {% include form.html %}
-
-{% for post in site.posts %}
-  {% if post.type == 'front' %} 
+    {% include front.html %}
 
 <div class="form-section">
 			<form method="post" action="" id="frmSS31" onsubmit="return CheckForm31(this); " style="width:100%;display:inline-block">
@@ -30,8 +27,8 @@
 				   <input type="submit" value="Learn more about MCMaster here" class="button" />
 					   </form>
 			</div>
-			{% endif %}
-			{% endfor %}
+			
+  
        	<div class="menu">
     		<ul>
 				<li><a href="{{site.baseurl}}">Home</a></li>
