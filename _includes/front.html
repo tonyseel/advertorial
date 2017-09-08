@@ -1,9 +1,13 @@
- {% if tag contains front %}
-<div class="content-section">
+ {% for post in site.post %}
+  {% if post.type == 'front' %} 
+
+   <h1>{{post.heading}}</h1>	
+    <div class="content-section">
 	    	
-<p><img src="image/author3.png" style="float:right"></p>
+       <p><img src="image/author3.png" style="float:right"></p>
 				
-{{content}}
+       {{content}}
 			
- </div>
-	  {% endif %} 
+    </div>
+  {% endif %}
+{% endfor %}
