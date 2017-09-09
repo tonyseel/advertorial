@@ -3,6 +3,15 @@ layout: post
 date: 2016-08-20
 title: Credit for Good
 type: front
+testimonial1: video training on how to write stories that sell (just like the stories I use in my emails)
+video training on how to create powerful landing pages that convert (easier than it sounds when you have my DAP formula)
+monthly webinars where you’ll get
+testimonial2: video training on how to write stories that sell (just like the stories I use in my emails)
+video training on how to create powerful landing pages that convert (easier than it sounds when you have my DAP formula)
+monthly webinars where you’ll get
+testimonial3: video training on how to write stories that sell (just like the stories I use in my emails)
+video training on how to create powerful landing pages that convert (easier than it sounds when you have my DAP formula)
+monthly webinars where you’ll get
 ---
 
 video training on how to write stories that sell (just like the stories I use in my emails)
