@@ -103,3 +103,24 @@ a:hover, a:focus {
 .latest ul li{width:50%;float:left}
 .mm-home h2{color:#d80000;font-size:23px;font-weight:800;text-align:center;
 }
+.author img{       border-radius: 100px;
+    width: 45px;
+    height: 45px;
+    margin-bottom: 6px;}
+.comments-section{    width: 100%;
+    display: inline-block;
+    padding: 30px;
+    border: 1px dotted #cbcbca;
+    margin-top: 30px;}
+.content-section p {
+    font-size: 14px;
+    margin-bottom: 1.571em;
+    color: #777575;
+}
+.comment{width:100%;display:inline-block}
+.author span{    color: #868585;
+    font-size: 16px;}
+.line {
+    margin: 20px;
+    border: 1px dotted #c3c3c2;
+}
