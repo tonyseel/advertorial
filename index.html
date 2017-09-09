@@ -13,7 +13,40 @@ layout: default
 					
 		    </div>
          {% include form.html %}
-	      {% include testimonial.html %}
+	      <div class="comments-section">	   
+					<div class="row">
+						<div class="col-md-2 author">
+							<img src="image/oqvbrv-bookie-testimonial-profile-cold.png"/>
+							<span>Author</span>
+						</div>
+						<div class="col-md-8 comment">
+							<p>{{post.testimonial1}}</p>
+						</div>
+					</div>
+					<div class="line"></div>
+
+					<div class="row">
+						<div class="col-md-2 author">
+							<img src="image/oqvbrv-bookie-testimonial-profile-cold.png"/>
+							<span>Author</span>
+						</div>
+						<div class="col-md-8 comment">
+							<p>{{post.testimonial2}}</p>
+						</div>
+					</div>
+					<div class="line"></div>
+
+					<div class="row">
+						<div class="col-md-2 author">
+							<img src="image/oqvbrv-bookie-testimonial-profile-cold.png"/>
+							<span>Author</span>
+						</div>
+						<div class="col-md-8 comment">
+							<p>{{post.testimonial3}}</p>
+						</div>
+					</div>
+					<div class="line"></div>				
+	</div>
 	  {% endif %}       
 {% endfor %}
 
