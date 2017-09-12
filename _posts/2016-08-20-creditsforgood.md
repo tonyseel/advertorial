@@ -28,4 +28,4 @@ So many people with poor credit have done their best to make timely payments but
 
 Put those problems behind you now. It's time to move on and re-establish a good credit file.
 
-I am also offering a paid credit repair service
+I am also offering a paid credit repair service where you only pay for deletion. You can start seeing the results within the first 30 days.
