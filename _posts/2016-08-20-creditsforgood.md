@@ -23,7 +23,7 @@ Your creditors pay to see your credit file information and believe it to be true
 
 Unfortunately you are just another number in the vast data bank of numbers. Your credit report and the information it contains are not important or of any consequence to anyone but you. That's why you are the only one that can do anything about it. 
 
-Well my friend, that's why I put this information together and developed this unique program. I have seen too many people destroyed by the credit reporting system. I have watched helplessly by the wayside as their credit files were corrupted and their self dignity was destroyed in the process.
+**Well my friend, that's why I put this information together and developed this unique program. I have seen too many people destroyed by the credit reporting system. I have watched helplessly by the wayside as their credit files were corrupted and their self dignity was destroyed in the process.**
 
 So many people with poor credit have done their best to make timely payments but couldn't because of a personal problem or another. Should they pay for this both financially and emotionally for the next seven to ten years? I don't believe so. I believe everyone deserves a second chance. I believe that you deserve a second chance, no matter what the previous circumstances were. 
 
