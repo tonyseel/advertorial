@@ -11,7 +11,7 @@ testimonial3: video training on how to write stories that sell video training on
 
 The information provided has saved many people a lot of money. These are few important tricks of the trade used by various credit repair businesses.
 
-**Ted Rood, a senior loan officer in St. Louis, says he has seen credit scores jump as much as 100 points as a result of this approach.**
+> Ted Rood, a senior loan officer in St. Louis, says he has seen credit scores jump as much as 100 points as a result of this approach.
 
 He says, by knowing, understanding and utilizing your legal rights you can begin taking the steps of regain the good credit you once had and reward yourself with the confidence necessary to rebuild your financial independence and freedom. Of course you must protect your new credit report with honesty, integrity, and common sense.
 
