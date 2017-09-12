@@ -30,12 +30,12 @@ So many people with poor credit have done their best to make timely payments but
 
 Put those problems behind you now. It's time to move on and re-establish a good credit file.
 
-So what do I offer?
+### So what do I offer?
 
-* I will teach you how to establish AAA credit in 30 days
-* How to stop collection agencies in their tracks
-* Improve your credit by paying bills later than sooner
-* Wipe out debts without bankruptcy
-* Guerrilla tactics that will give you a good credit rating
+- I will teach you how to establish AAA credit in 30 days
+- How to stop collection agencies in their tracks
+- Improve your credit by paying bills later than sooner
+- Wipe out debts without bankruptcy
+- Guerrilla tactics that will give you a good credit rating
 
 **I am also offering a paid credit repair service where you only pay for deletion. You can start seeing the results within the first 30 days.**
