@@ -32,10 +32,10 @@ Put those problems behind you now. It's time to move on and re-establish a good 
 
 So what do I offer?
 
-* I will teach you how to establish AAA credit in 30 days
-* How to stop collection agencies in their tracks
-* Improve your credit by paying bills later than sooner
-* Wipe out debts without bankruptcy
-* Guerrilla tactics that will give you a good credit rating
+1. I will teach you how to establish AAA credit in 30 days
+2. How to stop collection agencies in their tracks
+3. Improve your credit by paying bills later than sooner
+4. Wipe out debts without bankruptcy
+5. Guerrilla tactics that will give you a good credit rating
 
 I am also offering a paid credit repair service where you only pay for deletion. You can start seeing the results within the first 30 days. 
