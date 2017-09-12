@@ -18,7 +18,7 @@ He says, by knowing, understanding and utilizing your legal rights you can begin
 
 The system, as it stands today, does not give you the opportunity to defend yourself before inscribing your credit file with negative information, even if it is not yours! You must prove to them that the negative information on your credit file is incorrect, invalid or otherwise erroneous before they will remove it. That means in their eyes, you are GUILTY until proven INNOCENT.
 
->**“Words cannot express how happy I am with John. I had 14 items between all 3 credit bureaus and within the first 30 days he has gotten 8 items deleted from my credit report. He is an amazing person and I thank them he just don't know what he has done to my life. Thank you so much John”**
+**>“Words cannot express how happy I am with John. I had 14 items between all 3 credit bureaus and within the first 30 days he has gotten 8 items deleted from my credit report. He is an amazing person and I thank them he just don't know what he has done to my life. Thank you so much John”**
 
 Your creditors pay to see your credit file information and believe it to be true and correct. They also reciprocate by exchanging your credit information with the credit bureaus. So... your creditors pay the credit bureaus and the credit bureaus are in business to make a profit. Where do you fit in? You don't.
 
