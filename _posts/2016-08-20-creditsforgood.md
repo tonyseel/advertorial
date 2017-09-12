@@ -3,11 +3,10 @@ layout: post
 date: 2016-08-20
 title: Now Increase your credit score by paying bills later than sooner
 type: front
-testimonial1: video training on how to write stories that sell
-testimonial2: video training on how to write stories that sell 
-testimonial3: video training on how to write stories that sell video training on how to create powerful landing pages that convert video training on how to create powerful landing pages that convert video training on how to create powerful landing pages that convert 
+testimonial1: So far, I am very pleased with the service. 14 deletions after the first round of disputes. Pretty awesome!
+testimonial2: I was doubtful at first, but John rapidly began working on improving my credit scores. Seeing an improving credit profile took all my doubts away.
+testimonial3: The Credit Pros work fast. Service is convenient and sufficient. Results are seen in the first 30 days and as you continue with them your credit score will raise. Monthly payments are affordable.
 ---
-
 
 The information provided has saved many people a lot of money. These are few important tricks of the trade used by various credit repair businesses.
 
@@ -27,4 +26,6 @@ Unfortunately you are just another number in the vast data bank of numbers. Your
 
 So many people with poor credit have done their best to make timely payments but couldn't because of a personal problem or another. Should they pay for this both financially and emotionally for the next seven to ten years? I don't believe so. I believe everyone deserves a second chance. I believe that you deserve a second chance, no matter what the previous circumstances were. 
 
-Put those problems behind you now. It's time to move on and re-establish a good credit file. 
+Put those problems behind you now. It's time to move on and re-establish a good credit file.
+
+I am also offering a paid credit repair service
