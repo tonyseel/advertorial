@@ -11,11 +11,11 @@ testimonial3: video training on how to write stories that sell video training on
 
 The information provided has saved many people a lot of money. These are few important tricks of the trade used by various credit repair businesses.
 
-Ted Rood, a senior loan officer in St. Louis, says he has seen credit scores jump as much as 100 points as a result of this approach. 
+**Ted Rood, a senior loan officer in St. Louis, says he has seen credit scores jump as much as 100 points as a result of this approach.**
 
 He says, by knowing, understanding and utilizing your legal rights you can begin taking the steps of regain the good credit you once had and reward yourself with the confidence necessary to rebuild your financial independence and freedom. Of course you must protect your new credit report with honesty, integrity, and common sense.
 
-The truth is that your creditors and the credit bureaus have been swapping information about you behind your back for a long time.
+*The truth is that your creditors and the credit bureaus have been swapping information about you behind your back for a long time.*
 
 The system, as it stands today, does not give you the opportunity to defend yourself before inscribing your credit file with negative information, even if it is not yours! You must prove to them that the negative information on your credit file is incorrect, invalid or otherwise erroneous before they will remove it. That means in their eyes, you are GUILTY until proven INNOCENT. 
 
